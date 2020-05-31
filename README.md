@@ -1,3 +1,2 @@
 # ProjectPortfolio
-This is a collection of games that I have made. Everything will be in their own zip-file with an executable inside.
-The games are ordered numerically based on when in my life they were started
+This is a collection of games that I have made. Every folder represents a different game and will have their own executable in each folder. The games are ordered chronologically base on start date.
